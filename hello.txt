@@ -1,2 +1,2 @@
-Hello from LOCAL
+Hello from LOCAL and GITHUB
 Updated on GitHub
